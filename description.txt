@@ -1,0 +1,5 @@
+Speedy Reflex Shooters is a simple, short, yet fun 2d platform action game that tests your reflexes while allowing you to have fun shooting down some quick, speedy baddies! You go through 3 levels controlling a yellow shooter sphere who must take down a series of colored spherical enemies that roll around very quickly. Each color of enemies has its own movement pattern, attack damage, and speed, and as you go deeper into the game, the enemies are stronger, are harder to kill, and move faster. It uses a simple Pygame UI window, which you can easily access by clicking Run Module from the Run menu in Python.
+  
+
+
+This game was coded using Pygame, a Python command module suited for creating games. More information about Pygame (including downloads) can be found here: http://www.pygame.org/download.shtml
